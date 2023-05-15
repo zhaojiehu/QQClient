@@ -15,7 +15,7 @@ public class event01 extends JFrame{
     public event01(){
         mp = new Mypaint();
         this.add(mp);
-        //加监听器
+        //加监听器ffff
         this.addKeyListener(mp);
         this.setSize(1080,1000);
         this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
